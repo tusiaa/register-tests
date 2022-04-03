@@ -1,0 +1,53 @@
+{
+    "students": [
+        {
+            "name": "Jan",
+            "surname": "Kowalski",
+            "pesel": "96032687885",
+            "subjects": [
+                {
+                    "name": "Matematyka",
+                    "grades": [
+                        {
+                            "grade": 4,
+                            "scale": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Informatyka",
+                    "grades": []
+                }
+            ],
+            "remarks": ["Zaliczenie", "Poprawa"]
+        },
+        {
+            "name": "Adam",
+            "surname": "Nowak",
+            "pesel": "94071449639",
+            "subjects": [
+                {
+                    "name": "Informatyka",
+                    "grades": []
+                },
+                {
+                    "name": "Angielski",
+                    "grades": [
+                        {
+                            "grade": 5,
+                            "scale": 3
+                        }
+                    ]
+                }
+            ],
+            "remarks": []
+        },
+        {
+            "name": "Jan",
+            "surname": "Nowak",
+            "pesel": "03241311845",
+            "subjects": [],
+            "remarks": ["Nowy"]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "students": [
+        {
+            "name": "Jan",
+            "surname": "Kowalski",
+            "pesel": "96032687885",
+            "subjects": [
+                {
+                    "name": "Matematyka",
+                    "grades": [
+                        {
+                            "grade": 5,
+                            "scale": 5
+                        },
+                        {
+                            "grade": 1,
+                            "scale": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Informatyka",
+                    "grades": []
+                }
+            ],
+            "remarks": []
+        },
+        {
+            "name": "Jan",
+            "surname": "Nowak",
+            "pesel": "03241311845",
+            "subjects": [],
+            "remarks": [
+                "Nowy",
+                "Zaliczenie"
+            ]
+        }
+    ]
+}
